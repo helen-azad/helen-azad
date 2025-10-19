@@ -17,8 +17,6 @@
 ### 🚀 What I Do
 I turn data into products—**predictive models**, **LLM chatbots**, and **decision-ready dashboards**—with measurable business impact.
 
-- KPI-first solutions (conversion, churn, SLA, AOV)
-- End-to-end delivery: data → modeling → MLOps/CI/CD → monitoring
 - Clean, tested, documented code and reproducible pipelines
 - **Availability:** 24/7 across time zones
 - **Post-project support:** Q&A, troubleshooting, and advisory
@@ -29,7 +27,7 @@ I turn data into products—**predictive models**, **LLM chatbots**, and **decis
 **NLP & LLMs:** spaCy • transformers • prompt engineering • RAG • evaluation  
 **ML & DL:** scikit-learn • TensorFlow • PyTorch • model optimization  
 **Data & Viz:** Python • Pandas • SQL • Power BI • Matplotlib  
-**Pipelines & Ops:** CI/CD • Docker • MLOps • monitoring • documentation
+**Pipelines & Ops:** CI/CD • Docker 
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
