@@ -67,19 +67,3 @@ I turn data into products—**predictive models**, **LLM chatbots**, and **decis
 ### 📫 Work With Me
 - Upwork: **[Hire me on Upwork](https://www.upwork.com/freelancers/~01d039a474c315c86e)**  
 - GitHub: **[@helen-azad](https://github.com/helen-azad)**
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=helen-azad&show_icons=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helen-azad" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helen-azad&layout=compact" alt="Top Languages" />
-</p>
-</details>
